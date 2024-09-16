@@ -1,0 +1,15 @@
+@charset "UTF-8";
+  
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    text-indent: 30px;
+}
