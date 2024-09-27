@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+}
+
+header {
+    background-color: rgb(231, 145, 87);
+}
+
+h1, h2 {
+    text-align: center;
+    padding: 20px;
+}
+
+ul {
+    list-style-type: none;
+    background-color: rgb(29, 50, 95);
+}
+
+li {
+    display: inline-block;
+    padding: 10px;
+    color: white;
+    padding-right: 10px;
+    font-weight: bolder;
+}
+
+li:hover {
+    text-decoration: underline;
+}
+
+main h2, p {
+    padding: 10px;
+    text-align: justify;
+}
+
+article {
+    display: block;
+    margin: auto;
+    width: 600px;
+
+}
+
